@@ -1,4 +1,4 @@
-# IBM Germany 2016 Hackthon (07.-09.10.2016 + 18.-20.11.2016)
+# IBM Germany 2016 Hackthon
 [Landing Page](http://ibm.biz/hackathon2016) /
 [Bluemix DevOps Services](https://hub.jazz.net/project/tgau/IBM-Hackathon/overview) /
 
