@@ -1,6 +1,5 @@
 # IBM Germany 2016 Hackthon
-[Landing Page](http://ibm.biz/hackathon2016) /
-[Bluemix DevOps Services](https://hub.jazz.net/project/tgau/IBM-Hackathon/overview) /
+[Landing Page](http://ibm.biz/hackathon2016)
 
 ## Getting Started
 
